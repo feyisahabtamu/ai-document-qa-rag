@@ -151,7 +151,7 @@ ai-document-qa-rag/
 
 AI Engineer | Machine Learning & Generative AI
 
-GitHub: [@feyisa-habtamu](https://github.com/feyisa-habtamu)
+GitHub: [@feyisahabtamu](https://github.com/feyisahabtamu)
 
 ---
 
